@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(#614385,#516395) no-repeat;
+  min-height: 100vh;
+  font-family: 'Anton', sans-serif;
+}
